@@ -5,7 +5,7 @@ echo "By: Bappi"
 echo "v1.0.0"
 echo "================================================================="
 DB_USER="root"
-DB_PASS="root"
+DB_PASS=""
 DB_HOST="127.0.0.1"
 ​
 # Check if user passed a project name, if not then ask for one
