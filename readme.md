@@ -8,7 +8,7 @@ alias wpinstall="~/wpinstall.sh"
 ```
 Run
 ```
-chmod +x wpinstall.sh'
+chmod +x wpinstall.sh
 ```
 
 ## Commands
